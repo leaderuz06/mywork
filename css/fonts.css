@@ -1,0 +1,42 @@
+/*  Montserrat */
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat/Montserrat-Black.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat/Montserrat-BoldItalic.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+
+/* Trebuchet */
+
+@font-face {
+    font-family: "Trebuchet";
+    src: url(../fonts/trebuchet/TrebuchetMS-Bold.woff2);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Trebuchet";
+    src: url(../fonts/trebuchet/Trebuchet-BoldItalic.woff2);
+    font-weight: 700;
+}
+
